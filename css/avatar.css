@@ -1,0 +1,11 @@
+.asciiart{
+	color: #000000;
+	background-color: transparent;
+	font-size: 11px;
+	font-family: "Courier New", Courier, mono;
+	line-height: 9px;
+	letter-spacing: 0px;
+}
+i{
+	color:#fff;
+}
