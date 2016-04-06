@@ -1,0 +1,2 @@
+# learnAngularjs
+Practices for angularjs.
